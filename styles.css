@@ -1,0 +1,17 @@
+#game-status {
+}
+
+#board {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+td,
+tr {
+  border: 1px solid black;
+}
+
+td {
+  width: 70px;
+  height: 70px;
+}
